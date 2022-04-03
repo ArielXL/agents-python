@@ -1,0 +1,146 @@
+------------------------------------------------------------------------
+Robot: ChildsFirstRobot
+------------------------------------------------------------------------
+Environment 1
+ width:10 --- height:10 --- dirtiness:25 --- obstacles:15 --- children:5 --- interval:10
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 52.31948571908146
+
+Environment 2
+ width:7 --- height:8 --- dirtiness:15 --- obstacles:10 --- children:3 --- interval:5
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 36.80795427787451
+
+Environment 3
+ width:7 --- height:8 --- dirtiness:15 --- obstacles:10 --- children:3 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 36.61508175328295
+
+Environment 4
+ width:15 --- height:15 --- dirtiness:15 --- obstacles:15 --- children:10 --- interval:50
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 53.760394020101536
+
+Environment 5
+ width:5 --- height:5 --- dirtiness:10 --- obstacles:5 --- children:2 --- interval:5
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 33.990559407783635
+
+Environment 6
+ width:10 --- height:5 --- dirtiness:20 --- obstacles:20 --- children:3 --- interval:10
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 35.790812995775234
+
+Environment 7
+ width:10 --- height:10 --- dirtiness:30 --- obstacles:10 --- children:5 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 50.68814191094349
+
+Environment 8
+ width:10 --- height:10 --- dirtiness:10 --- obstacles:30 --- children:5 --- interval:30
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 24.98784934961692
+
+Environment 9
+ width:9 --- height:9 --- dirtiness:15 --- obstacles:20 --- children:3 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 26.05883942325363
+
+Environment 10
+ width:10 --- height:10 --- dirtiness:20 --- obstacles:20 --- children:4 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 38.90173137157013
+
+------------------------------------------------------------------------
+Robot: NearFirstRobot
+------------------------------------------------------------------------
+Environment 1
+ width:10 --- height:10 --- dirtiness:25 --- obstacles:15 --- children:5 --- interval:10
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 52.51644707206284
+
+Environment 2
+ width:7 --- height:8 --- dirtiness:15 --- obstacles:10 --- children:3 --- interval:5
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 44.86824555670545
+
+Environment 3
+ width:7 --- height:8 --- dirtiness:15 --- obstacles:10 --- children:3 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 46.25025527685127
+
+Environment 4
+ width:15 --- height:15 --- dirtiness:15 --- obstacles:15 --- children:10 --- interval:50
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 54.332189076956084
+
+Environment 5
+ width:5 --- height:5 --- dirtiness:10 --- obstacles:5 --- children:2 --- interval:5
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 38.2635288226833
+
+Environment 6
+ width:10 --- height:5 --- dirtiness:20 --- obstacles:20 --- children:3 --- interval:10
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 50.887186612438136
+
+Environment 7
+ width:10 --- height:10 --- dirtiness:30 --- obstacles:10 --- children:5 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 50.12054742473711
+
+Environment 8
+ width:10 --- height:10 --- dirtiness:10 --- obstacles:30 --- children:5 --- interval:30
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 52.55962319329952
+
+Environment 9
+ width:9 --- height:9 --- dirtiness:15 --- obstacles:20 --- children:3 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 51.15979960623033
+
+Environment 10
+ width:10 --- height:10 --- dirtiness:20 --- obstacles:20 --- children:4 --- interval:20
+Success: 0
+Fired: 0
+Timeout: 0
+Dirty Mean: 52.41703752457358
+
